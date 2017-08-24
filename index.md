@@ -10,7 +10,7 @@ phase:
  - 3 : https://gitlab.com/coala/GSoC-2017/milestones/9
 bio: >
  I'm a final year student of Computer Science & Engineering at University School of Information,
- Communication & Technology, GGS IP University. I participated in GSoC and worked with [coala](coala.io) to facilitate users to use coala online. I also worked on a bot to create coafile (coala configuration file), worked on improving UI of coala-html and configurability of coala-projects. I also worked on adding Notification and Thread support in the IGitt library.  
+ Communication & Technology, GGS IP University. I participated in GSoC and worked with [coala](coala.io) to facilitate users to use coala online. I also worked on a bot to create coafile (coala configuration file), worked on improving UI of coala-html and configurability of coala-projects. I also worked on adding Notification and Thread support in the IGitt library.
 social:
  - GitHub:
    - username: hemangsk
@@ -28,19 +28,19 @@ email: hemangsk@gmail.com
 blog: http://hemangsk.github.io/stories/
 activity:
  - 0:
-   - repo: coala-quickstart 
+   - repo: coala-quickstart
    - link: https://github.com/coala/coala-quickstart/commits/master?author=hemangsk
-   - details: > 
+   - details: >
       Add --allow-incomplete-sections mode and bump coala version.
  - 1:
    - repo: coala Projects
    - link: https://github.com/coala/projects/commits/master?author=hemangsk
-   - details: > 
+   - details: >
        Commits **f26ae52** to **6497def** were part of GSoC.
  - 2:
    - repo: landing-frontend
    - link: https://github.com/coala/landing-frontend/commits/master?author=hemangsk
-   - details: > 
+   - details: >
       Commits  **7e2efb3** to **a48a08a** were part of GSoC.
  - 3:
    - repo: IGitt
