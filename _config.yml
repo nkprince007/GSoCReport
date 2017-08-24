@@ -1,10 +1,10 @@
-title: Hemang Kumar GSoC Report
-email: hemangsk@gmail.com
+title: Naveen Kumar Sangi's GSoC 2017 Report
+email: nkprince007@gmail.com
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/GSoC-2017" # the subpath of your site, e.g. /blog
+url: "https://nkprince007.github.io/GSoC-2017" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: nkprince007
+github_username:  nkprince007
 
 # Build settings
 markdown: kramdown
