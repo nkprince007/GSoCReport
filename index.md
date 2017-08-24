@@ -3,7 +3,7 @@ layout: report
 student: Naveen Kumar Sangi
 project: Extending GitMatev2.0 to support GitLab and Bitbucket
 project_link: https://summerofcode.withgoogle.com/projects/#4985377849868288
-tarball: https://github.com/nkprince007/GSoCReport/raw/master/project.tar
+tarball: https://rawgit.com/nkprince007/GSoCReport/master/project.tar
 mentors: >
   [Lasse Schuirmann](https://github.com/sils) & [Fabian Neuschmidt](https://github.com/fneu)
 phase:
